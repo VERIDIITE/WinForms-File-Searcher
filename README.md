@@ -18,9 +18,7 @@ WinForms-Folder-Searcher/
 │   │   ├── MainForm.Designer.cs    # UI layout for MainForm
 │   │   ├── SearchResultsForm.cs    # Search results display form
 │   │   ├── SearchResultsForm.Designer.cs  
-│   ├── Models/                     # Data models
-│   │   ├── FileModel.cs             # Represents file properties
-│   │   ├── FolderModel.cs           # Represents folder properties
+
 
 ```
 
