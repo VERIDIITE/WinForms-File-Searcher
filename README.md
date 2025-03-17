@@ -1,19 +1,28 @@
+
+
 # **C# .NET Folder Searcher**
 
-Welcome to the **C#-NET-Folder-Searcher** repository! 🚀 This project is a **powerful and efficient folder search utility** built using **C# and .NET**. It allows users to quickly search for files and folders based on **name, extension, size, and date modified**, with an intuitive user interface.
+Welcome to the C#-NET-Folder-Searcher repository! 🚀 This project is a **powerful and efficient folder search utility** built using C# and .NET. It allows users to quickly search for files and folders based on name, extension, with an intuitive user interface.
 
----
-
-## **📌 Project Name**
-**C#-NET-Folder-Searcher** – A fast and customizable file/folder search application using C#.NET.
-
-## **📝 Project Description**
-This project provides a fast and user-friendly way to search for files and directories** within a selected folder or drive. It features customizable filters for refining search results, including File name and attributes. The application is built with **.NET and WF for better code structure and maintainability.
 
 ---
 
 ## **📂 Folder Structure**  
 
+```
+WinForms-Folder-Searcher/
+├── WinForms-Folder-Searcher.sln  # Solution file
+├── WinForms-Folder-Searcher/      # Main project folder
+│   ├── Forms/                     # UI Forms
+│   │   ├── MainForm.cs             # Main UI Form
+│   │   ├── MainForm.Designer.cs    # UI layout for MainForm
+│   │   ├── SearchResultsForm.cs    # Search results display form
+│   │   ├── SearchResultsForm.Designer.cs  
+│   ├── Models/                     # Data models
+│   │   ├── FileModel.cs             # Represents file properties
+│   │   ├── FolderModel.cs           # Represents folder properties
+
+```
 
 ---
 
@@ -22,15 +31,14 @@ This project provides a fast and user-friendly way to search for files and direc
 ✔ **Fast File & Folder Search** – Quickly scan directories for files and folders.  
 ✔ **Customizable Filters** – Search by name, extension, size, and date modified.  
 ✔ **Real-Time Results** – Instant display of matching files as you type.  
+✔ **Sorting & Export Options** – Sort search results and export to a file.  
 
 ---
 
 ## **📌 Technologies Used**  
 
-- **C# (.NET Core/.NET 6/7/8)**  
-- **WF (Windows Forms)**  
-- **LINQ for Fast Filtering**  
-- **Material Design / Fluent UI for Modern UI Components**  
+- **C# (.NET Framework/.NET Core)**  
+- **Windows Forms (WinForms)**  
 
 ---
 
@@ -38,17 +46,19 @@ This project provides a fast and user-friendly way to search for files and direc
 
 ### **1️⃣ Clone the Repository**  
 
+```bash
 git clone https://github.com/YOUR_USERNAME/CSharp-NET-Folder-Searcher.git
 cd CSharp-NET-Folder-Searcher
+```
+---
+
+## **👨‍💻 Author**  
+
+👤 **Kasam Ali Aftab**  
+💼 **Software Engineer**  
+
+Feel free to connect with me for collaboration or feedback!  
 
 ---
 
-📷 Screenshots
-
-
-
----
-
-👨‍💻 Author
-👤 Kasam Ali Aftab
-💼 Software Engineer
+### 🚀 Happy Coding!  
