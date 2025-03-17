@@ -19,7 +19,6 @@ WinForms-Folder-Searcher/
 │   │   ├── SearchResultsForm.cs    # Search results display form
 │   │   ├── SearchResultsForm.Designer.cs  
 
-
 ```
 
 ---
