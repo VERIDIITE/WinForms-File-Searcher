@@ -1,10 +1,11 @@
 
+![Alt text](S1.png)
 
 # **C# .NET Folder Searcher**
 
 Welcome to the C#-NET-Folder-Searcher repository! 🚀 This project is a **powerful and efficient folder search utility** built using C# and .NET. It allows users to quickly search for files and folders based on name, extension, with an intuitive user interface.
 
-
+![Alt text](S2.png)
 ---
 
 ## **📂 Folder Structure**  
